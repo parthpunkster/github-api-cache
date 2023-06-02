@@ -47,6 +47,8 @@
 
 ## Future improvements
 * Proper variable and service naming
+* Change Cache naming and structure
+* Add support for scheduling across multiple instance of the service by using distributed locking
 * Proper dependency injection
 * Have a DB supported persistent cache rather than in-memory
 * Add support for threading and concurrency at multiple levels right from cache loading to handling requests
